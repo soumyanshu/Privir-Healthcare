@@ -8,7 +8,7 @@ const About = () => {
       <div className="relative text-primary-darkBlue py-28 px-4 overflow-hidden border-b border-gray-200">
         {/* Background Image with Tint */}
         <div 
-          className="absolute inset-0 bg-cover bg-center z-0 opacity-100 transform scale-105"
+          className="absolute inset-0 bg-cover bg-center z-0 opacity-30 transform scale-105"
           style={{ backgroundImage: "url('/images/hero-bg.jpg')" }}
         ></div>
         <div className="absolute inset-0 bg-gradient-to-r from-white/95 via-white/70 to-transparent z-0"></div>
@@ -42,7 +42,7 @@ const About = () => {
           </div>
           <div className="lg:w-1/2 w-full">
             <div className="relative p-2 border border-gray-100 rounded-3xl bg-white shadow-md">
-              <img src="/images/about-story.jpg" alt="Our story" className="rounded-2xl shadow-sm w-full object-cover h-80 md:h-[450px]" />
+              <img src="/images/about-story.jpeg" alt="Our story" className="rounded-2xl shadow-sm w-full object-cover h-80 md:h-[450px]" />
               <div className="absolute -bottom-6 -left-6 bg-primary-green text-white p-6 rounded-2xl shadow-xl hidden md:block max-w-xs border border-white/20">
                 <span className="block text-3xl font-black font-poppins">100%</span>
                 <span className="text-xs text-gray-150">Transparency & grassroots integrity in every donation.</span>

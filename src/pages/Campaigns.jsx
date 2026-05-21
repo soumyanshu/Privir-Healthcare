@@ -79,7 +79,7 @@ const Campaigns = () => {
       <div className="relative text-primary-darkBlue py-28 px-4 overflow-hidden border-b border-gray-200">
         {/* Background Image with Tint */}
         <div 
-          className="absolute inset-0 bg-cover bg-center z-0 opacity-100 transform scale-105"
+          className="absolute inset-0 bg-cover bg-center z-0 opacity-30 transform scale-105"
           style={{ backgroundImage: "url('/images/campaign-child-education.jpg')" }}
         ></div>
         <div className="absolute inset-0 bg-gradient-to-r from-white/95 via-white/70 to-transparent z-0"></div>
