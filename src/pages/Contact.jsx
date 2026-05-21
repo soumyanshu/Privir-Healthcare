@@ -92,7 +92,7 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-bold font-poppins text-primary-darkBlue mb-1">Email Addresses</h3>
                   <p className="text-gray-600 text-sm mb-1 leading-relaxed">Send us your feedback, proposals or partnership ideas:</p>
-                  <a href="mailto:healthcareprivir@gmail.com" className="text-primary-green font-bold hover:underline text-base block">healthcareprivir@gmail.com</a>
+                  <a href="mailto:privirhealthcare@gmail.com" className="text-primary-green font-bold hover:underline text-base block">privirhealthcare@gmail.com</a>
                 </div>
               </div>
 
